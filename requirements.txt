@@ -77,7 +77,6 @@ imageio-ffmpeg==0.4.7
 imagesize==1.4.1
 in-n-out==0.1.7
 iniconfig==2.0.0
-install
 intel-openmp==2022.1.0
 ipykernel==6.29.4
 ipympl==0.9.4
