@@ -205,7 +205,6 @@ pyfastnoisesimd==0.4.2
 pyFFTW==0.13.0
 Pygments==2.16.1
 pygmt==0.7.0
-PyGy==0.4.0
 PyJWT==2.10.0
 PyOpenGL==3.1.6
 pypardiso==0.4.1
